@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "570772850",
+    "firebase_url": "https://authwithfirebase-48fc9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "authwithfirebase-48fc9",
+    "storage_bucket": "authwithfirebase-48fc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570772850:android:a58e678b234d510eafe1eb",
+        "android_client_info": {
+          "package_name": "team.no.tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570772850-8pgesr0fc0a441f65tpd4oec1laot4jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsLErF_9QZpPI4qaqtb4i25qHtYqJJ0sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570772850-8pgesr0fc0a441f65tpd4oec1laot4jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

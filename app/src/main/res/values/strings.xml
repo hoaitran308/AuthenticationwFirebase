@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AuthenticationWithFirebase</string>
+
+    <string name="email">Email address..</string>
+    <string name="password">Password..</string>
+    <string name="full_name">Full name..</string>
+    <string name="age">Your age..</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_logout">Logout</string>
+    <string name="register">Register a new account</string>
+</resources>
